@@ -26,7 +26,7 @@ Bachelor’s degree in Computer Science and Engineering, Politecnico di Milano.
 - Full-stack implementation (frontend and backend) of the board game *Codex Naturalis*  
 - Developed as part of a Software Engineering project  
 
-### Systems and Big Data
+### Systems for Big Data
 - Repository: https://github.com/AriannaPaone/SMBUD_project_24  
 - Project on NoSQL database systems and their capabilities  
 
